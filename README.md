@@ -35,7 +35,7 @@ Dataset containing previous loan application data was provided, Objective is per
        - [Dropping-irrelevant-columns](#Dropping-irrelevant-columns)
        - [Fix Incorrect Data Types](#Fix-Incorrect-Data-Types)
        - [Derived Metrics](#Derived-Metrics)
- 3. [#Analysis](#Analysis)
+ 3. [Analysis](#Analysis)
     - [Univariate Analysis](#Univariate-Analysis)
        - [univariate analysis on outcome](#univariate-analysis-on-outcome)
        - [Univarite analysis on categorical variables](#Univarite-analysis-on-categorical-variables)
@@ -63,4 +63,4 @@ Dataset containing previous loan application data was provided, Objective is per
 - matplotlib - version 3.7.1
 
 ## Contact
-Created by [@arung12] - feel free to contact me!
+Created by [@arung12](#https://github.com/arung12) - feel free to contact me!
