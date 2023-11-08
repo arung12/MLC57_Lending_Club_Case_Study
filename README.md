@@ -63,4 +63,4 @@ Dataset containing previous loan application data was provided, Objective is per
 - matplotlib - version 3.7.1
 
 ## Contact
-Created by [@arung12](#https://github.com/arung12) - feel free to contact me!
+Created by [@arung12](https://github.com/arung12) - feel free to contact me!
