@@ -57,7 +57,7 @@ Dataset containing previous loan application data was provided, Objective is per
 
 
 ## Technologies Used
-- numpyy - version 1.5.3
+- numpy - version 1.5.3
 - pandas - version 1.24.3
 - seaborn - version 0.12.2
 - matplotlib - version 3.7.1
